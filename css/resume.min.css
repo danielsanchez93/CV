@@ -14,7 +14,12 @@
 
 .menu-lateral{
 	background-image: url("../img/code.jpg");
-  }
+}
+/* .about{
+	background-image: url("../img/ARK1.jpg");
+	background-blend-mode: overlay;
+	background-size: cover;
+} */
 
 h1,
 h2,
